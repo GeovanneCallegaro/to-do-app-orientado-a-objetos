@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/geovannecallegaro/to-do-app-orientado-a-objetos?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/geovannecallegaro/to-do-app-orientado-a-objetos?style=for-the-badge)
 
-<img src="todo-app.png" alt="Imagem do Projeto">
+<img src="todo-app-oop.png" alt="Imagem do Projeto">
 
 > É um projeto para gerenciar as tarefas de uma pessoa durante o dia ou um período de tempo! O usuário pode colocar as tarefas a serem executadas e ir riscando elas conforme for finalizando-as. 
 
